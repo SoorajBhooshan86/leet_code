@@ -12,3 +12,8 @@
 **May 4, 2025**
 
  - Question 9 Palindrome completed.
+
+
+**May 4, 2025**
+
+ - Question 27 Remove Element completed.
