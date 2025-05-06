@@ -17,3 +17,9 @@
 **May 4, 2025**
 
  - Question 27 Remove Element completed.
+
+
+**May 7, 2025**
+
+ - Question 20 Valid Parentheses completed.
+
